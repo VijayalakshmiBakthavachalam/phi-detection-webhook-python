@@ -1,0 +1,4 @@
+- id: regex-check
+  name: Regex Pattern Check
+  entry: python3 hooks/regex_check.py
+  language: system
